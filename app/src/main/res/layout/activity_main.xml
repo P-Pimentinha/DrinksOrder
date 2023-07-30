@@ -9,7 +9,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerVIew"
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="570dp"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="61dp" />
 
@@ -17,7 +17,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="104dp"
+        android:layout_marginBottom="28dp"
         android:text="Confirm"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

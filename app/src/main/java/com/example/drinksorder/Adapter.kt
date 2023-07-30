@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.drinksorder.Models.DrinkModel
 
 class Adapter(private val drinklist: ArrayList<DrinkModel>): RecyclerView.Adapter<com.example.drinksorder.Adapter.MyViewHolder>() {
 

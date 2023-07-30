@@ -1,4 +1,4 @@
-package com.example.drinksorder
+package com.example.drinksorder.Models
 
 class DrinkModel {
 
